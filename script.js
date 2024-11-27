@@ -1,5 +1,5 @@
 const clientId = "2a1d7d4e43384a1f813a74df83845b5c"; // Reemplaza con tu Client ID
-const redirectUri = "https://army-borahae.github.io/for-army.com/"; // URI configurada en Spotify Dashboard
+const redirectUri = "https://army-borahae.github.io/army.com/"; // URI configurada en Spotify Dashboard
 
 let accessToken = null;
 let selectedTracks = []; // Variable para almacenar las canciones seleccionadas
